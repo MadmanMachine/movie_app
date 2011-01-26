@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  director: MyString
+  length: 1
+  genre: MyString
+  description: MyText
+
+two:
+  name: MyString
+  director: MyString
+  length: 1
+  genre: MyString
+  description: MyText
